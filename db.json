@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "shubham",
+      "email": "shubham8437@gmail.com",
+      "password": 1234,
+      "age": 24,
+      "fname": "vishnu",
+      "mname": "shayama"
+    },
+    {
+      "name": "prishu sharma",
+      "email": "prishu@1234",
+      "password": "1010",
+      "fname": "shubham sharma",
+      "mname": "prishu sharma",
+      "age": "16",
+      "id": 2
+    },
+    {
+      "name": "Harsh sharma",
+      "email": "harsh@123",
+      "password": "12345",
+      "age": "24",
+      "fname": "Harshvardhan sharma",
+      "mname": "Harshu sharma",
+      "id": 3
+    },
+    {
+      "name": "Dheeraj yadav",
+      "age": "24",
+      "email": "dheeraj@123",
+      "password": "1010",
+      "fname": "Dhanraj ",
+      "mname": "Sushila",
+      "id": 4
+    },
+    {
+      "name": "Shubham Sharma",
+      "email": "shubhamsharma8437@gmail.com",
+      "password": "1010",
+      "age": "22",
+      "fname": "Vishnu sharma",
+      "mname": "Shyama sharma",
+      "id": 5
+    },
+    {
+      "name": "Shubham Sharma",
+      "id": 6
+    },
+    {
+      "name": "Shubham Sharma",
+      "email": "shubham@12345",
+      "password": "1234",
+      "age": "21",
+      "fname": "Vishnu sharma",
+      "mname": "Shyama sharma",
+      "id": 7
+    }
+  ],
+  "stucomplain": [
+    {
+      "stuid": 1,
+      "complain": "internet is not working",
+      "ans": "i will manage",
+      "id": 2,
+      "time": "1/19/2024, 10:36:00 AM",
+      "admintime": "1/22/2024, 11:11:38 PM"
+    },
+    {
+      "stuid": 7,
+      "complain": "wifi is not working",
+      "ans": "",
+      "time": "2/12/2024, 12:55:05 PM",
+      "admintime": "wait...",
+      "id": 3
+    }
+  ],
+  "adminlogin": [
+    {
+      "id": 1,
+      "adminname": "Aarohi",
+      "adminpassword": "1010",
+      "adminemail": "aarohi123"
+    },
+    {
+      "id": 2,
+      "adminname": "shubham",
+      "adminpassword": "1010",
+      "adminemail": "shubham@123"
+    }
+  ]
+}
